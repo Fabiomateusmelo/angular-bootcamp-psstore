@@ -1,4 +1,6 @@
 # Store
+![image](https://github.com/Fabiomateusmelo/angular-bootcamp-psstore/assets/105231558/13c26119-2834-4671-b60f-9fafc40bef33)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
 
